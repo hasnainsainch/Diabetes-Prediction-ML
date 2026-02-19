@@ -1,18 +1,11 @@
-# Basic data packages
-pandas==2.0.3
+# Python 3.12 compatible requirements.txt
+
 numpy==1.25.0
-
-# Machine Learning
+pandas==2.0.3
 scikit-learn==1.8.2
-
-# Visualization
 matplotlib==3.7.2
-seaborn==0.13.2
+seaborn==0.12.2
 altair==5.0.1
-
-# Streamlit
-streamlit==1.30.0
-
-# Other dependencies
+streamlit==1.25.0
 python-dateutil==2.9.2
-pillow==9.5.0
+pillow==10.0.1
